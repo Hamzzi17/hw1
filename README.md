@@ -1,4 +1,4 @@
-# hw1.
+# hw1.c
 C프로그래밍1
 
 #define _CRT_SECURE_NO_WARNINGS
